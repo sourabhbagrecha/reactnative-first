@@ -9,27 +9,27 @@ const ListScreen = () => {
       age: Math.floor(Math.random()*20 + 10)
     },
     {
-      name: "Yash",
+      name: "Alex",
       id: "2",
       age: Math.floor(Math.random()*20 + 10)
     },
     {
-      name: "Anshul",
+      name: "Jacob",
       id: "2.5",
       age: Math.floor(Math.random()*20 + 10)
     },
     {
-      name: "Tushar",
+      name: "Stuart",
       id: "3",
       age: Math.floor(Math.random()*20 + 10)
     },
     {
-      name: "Amay",
+      name: "Charles",
       id: "4",
       age: Math.floor(Math.random()*20 + 10)
     },
     {
-      name: "Jolly",
+      name: "Robert",
       id: "5",
       age: Math.floor(Math.random()*20 + 10)
     }
